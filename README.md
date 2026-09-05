@@ -1,3 +1,5 @@
+🎮 [Play Echo of Choices](https://meme-random-card-game-tmxiaf8penynnrd6rgkzdc.streamlit.app/)
+
 🃏 Simple Card Game
 
 A simple and flexible card-drawing game built with Python and Streamlit.
